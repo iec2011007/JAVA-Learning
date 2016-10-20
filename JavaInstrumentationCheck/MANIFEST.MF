@@ -1,0 +1,4 @@
+Main-Class: dustin.examples.InstrumentSampleObjects
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: dustin.examples.InstrumentationAgent
